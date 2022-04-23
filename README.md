@@ -8,8 +8,8 @@ Web Developer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://gourav-d.github.io/](http://gourav-d.github.io/)
-* 🧠  I'm learning abc
-* 🤝  I'm open to collaborating on Block Chain
+* 🧠  I'm learning Block Chain
+* 🤝  I'm open to collaborate
 
 ### Skills
 
