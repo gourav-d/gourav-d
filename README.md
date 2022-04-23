@@ -8,7 +8,6 @@ Web Developer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://gourav-d.github.io/](http://gourav-d.github.io/)
-* ✉️  You can contact me at [dwivedi.gourav@gmail.com](mailto:dwivedi.gourav@gmail.com)
 * 🧠  I'm learning abc
 * 🤝  I'm open to collaborating on Block Chain
 
